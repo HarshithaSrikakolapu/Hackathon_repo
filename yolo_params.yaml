@@ -1,0 +1,5 @@
+train: C:\Users\anura\Downloads\train_1\train1
+val: C:\Users\anura\Downloads\val1
+test: C:\Users\anura\Downloads\test1
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         
